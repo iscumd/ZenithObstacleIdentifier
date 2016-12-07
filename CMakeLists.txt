@@ -7,7 +7,6 @@ project(ZenithObstacleIdentifier)
 find_package(catkin REQUIRED COMPONENTS
   roscpp
   rospy
-  std_msg
 )
 
 ## System dependencies are found with CMake's conventions
